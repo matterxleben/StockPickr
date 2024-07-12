@@ -1,0 +1,239 @@
+Company Name,Industry,Sector,Country,Risk Level,Founding Year,Annual Revenue 2022-2023 (USD in Billions),Market Cap (USD in Billions),Employee Size,Dividend Yield,% Growth over last year
+NVIDIA,Semiconductors,Information Technology,USA,Medium,1993,79.774,316,29600,0.00,2.03
+Tesla,Automotive,Consumer Discretionary,USA,High,2003,94.745,79,140473,0.03,1.25
+Meta Platforms (Facebook),Technology,Information Technology,USA,Medium,2004,142.711,129,69329,0.00,0.95
+Roper Technologies,Technology,Electronic Components,USA,Medium,1890,5.61,46,19300,0.00,0.72
+Netflix,Entertainment,Communication Services,USA,Medium,1997,34.932234,29,13000,0.00,0.72
+Micron Technology,Technology,Semiconductors,USA,Medium,1978,27.15,64,49000,0.01,0.66
+HP Inc.,Technology,Computer Hardware,USA,High,1939,59.78,28,51000,0.00,0.62
+IQVIA Holdings,Technology,Software Application,USA,High,1982,14.41,37,85000,0.01,0.62
+Autodesk Inc.,Technology,Software Application,USA,High,1982,5,45,12600,0.00,0.62
+PayPal Holdings Inc.,Technology,Software Infrastructure,USA,High,1998,27.51,87,29900,0.00,0.62
+Uber,Transportation Technology,Industrials,USA,High,2009,38.589,15,32000,0.00,0.62
+Oracle,Technology,Information Technology,USA,Low,1977,52.961,40,164000,0.01,0.55
+First Quantum Minerals Ltd.,Mining,Basic Materials,Canada,High,1983,6.4,16,20600,0.02,0.51
+Lam Research Corporation,Technology,Semiconductors,USA,Medium,1980,19.04,69,18700,0.01,0.50
+Advanced Micro Devices (AMD) Inc.,Technology,Semiconductors,USA,Medium,1969,23.6,155,25000,0.00,0.49
+AMD,Semiconductors,Information Technology,USA,Medium,1969,22.8,27,26000,0.00,0.49
+Lundin Mining Corp.,Mining,Basic Materials,Canada,Medium,1994,2.77,7,9200,0.04,0.48
+Novo Nordisk,Pharmaceuticals,Health Care,Denmark,Low,1923,35.45750253,62,66015,0.01,0.44
+Microsoft,Technology,Information Technology,USA,Low,1975,236.584,342,221000,0.01,0.41
+Snowflake Inc.,Technology,Software Application,USA,Low,2012,2.06,46,4991,0.01,0.41
+Agnico Eagle Mines Ltd.,Mining,Basic Materials,Canada,Medium,1957,6.6,29,11200,0.03,0.38
+Eli Lilly,Pharmaceuticals,Health Care,USA,Low,1876,35.9321,81,43000,0.01,0.36
+Alphabet (Google),Technology,Software Infrastructure,USA,Low,1998,282.83,1350,190234,0.00,0.34
+Alphabet (Google),Technology,Information Technology,USA,Low,2015,318.146,231,180895,0.00,0.34
+Salesforce Inc.,Technology,Software Application,USA,Low,1999,31.35,189,73541,0.00,0.34
+Salesforce,Software,Information Technology,USA,Low,1999,35.743,25,72682,0.00,0.34
+Alamos Gold Inc. Class A,Mining,Basic Materials,Canada,Medium,2003,0.82,4,1700,0.01,0.33
+General Electric,Conglomerate,Industrials,USA,Medium,1892,69.52,18,125000,0.00,0.29
+Apple Inc.,Technology,Consumer Electronics,USA,Low,1976,387.53,2520,164000,0.00,0.29
+Apple,Technology,Information Technology,USA,Low,1976,381.623,340,150000,0.00,0.29
+Manulife Financial Corp.,Financial Services,Financials,Canada,Low,1887,48.8,37,37000,0.05,0.27
+TSMC (Taiwan Semiconductor Manufacturing Company),Semiconductors,Information Technology,Taiwan,Low,1987,73.86798726,95,76478,0.01,0.24
+Intuitive Surgical,Medical Devices,Health Care,USA,Low,1995,7.3185,15,12120,0.00,0.24
+Mastercard,Financial Services,Financials,USA,Low,1966,25.698,42,33400,0.00,0.24
+SAP,Software,Information Technology,Germany,Low,1972,34.43302767,24,108133,0.01,0.24
+Adobe Inc.,Technology,Software Infrastructure,USA,Low,1982,17.6,247,29239,0.00,0.24
+IBM Corporation,Technology,IT Services,USA,Medium,1911,60.52,113,345000,0.00,0.22
+Micron Technology,Semiconductors,Information Technology,USA,Medium,1978,18.312,15,43000,0.00,0.22
+Palo Alto Networks Inc.,Technology,Software Infrastructure,USA,Low,2005,6.15,59,12561,0.00,0.22
+Dell Technologies Inc.,Technology,Computer Hardware,USA,Medium,1984,102.3,28,133000,0.00,0.21
+Booking Holdings,Technology,Software Application,USA,Medium,1996,17.09,97,20700,0.00,0.21
+VMware Inc.,Technology,Software Infrastructure,USA,Medium,1998,13.34,51,37500,0.00,0.21
+Fortinet Inc.,Technology,Software Infrastructure,USA,Medium,2000,4.41,49,11508,0.00,0.21
+ServiceNow,Software,Information Technology,USA,Medium,2004,9.478,16,20433,0.00,0.21
+ASML,Semiconductors,Information Technology,Netherlands,Low,1984,28.26208239,42,40940,0.01,0.21
+Imperial Oil Ltd.,Oil & Gas,Energy,Canada,Medium,1880,41.2,32,5700,0.03,0.21
+Cenovus Energy Inc.,Oil & Gas,Energy,Canada,Medium,2009,42.35,28,6000,0.02,0.21
+Qualcomm Inc.,Technology,Semiconductors,USA,Medium,1985,42.95,138,51000,0.02,0.20
+QUALCOMM,Semiconductors,Information Technology,USA,Medium,1985,36.406,23,50000,0.02,0.20
+Equinix,Technology,IT Services,USA,Low,1998,7.26,64,11451,0.02,0.19
+Automatic Data Processing,Technology,Software Application,USA,Low,1949,16.67,90,60000,0.02,0.19
+LVMH,Luxury Goods,Consumer Discretionary,France,Low,1987,95.24930901,39,192287,0.02,0.19
+Uber Technologies Inc.,Technology,Software Application,USA,Medium,2009,31.87,66,32500,0.00,0.19
+Broadcom Inc.,Technology,Semiconductors,USA,Medium,1961,34.41,266,20000,0.01,0.18
+Broadcom,Semiconductors,Information Technology,USA,Medium,1961,42.619,81,20000,0.01,0.18
+Intuit Inc.,Technology,Software Application,USA,Low,1983,13.68,118,17300,0.00,0.18
+Intuit,Software,Information Technology,USA,Low,1983,15.813,19,18200,0.00,0.18
+Synopsys Inc.,Technology,Software Infrastructure,USA,Low,1986,5.17,57,19000,0.00,0.18
+Siemens,Conglomerate,Industrials,Germany,Medium,1847,84.16785844,15,320000,0.03,0.17
+Toyota,Automotive,Consumer Discretionary,Japan,Low,1937,71.79,28,380793,0.00,0.17
+Walmart,Retail,Consumer Discretionary,USA,Low,1962,657.332,55,2100000,0.01,0.17
+Linde,Chemicals,Materials,UK,Low,1879,32.761,21,66195,0.01,0.16
+Costco,Retail,Consumer Staples,USA,Low,1976,253.695,38,316000,0.02,0.16
+Visa,Financial Services,Financials,USA,Low,1958,34.141,55,28800,0.03,0.15
+Cisco,Technology,Information Technology,USA,Low,1984,55.364,19,84900,0.03,0.15
+Texas Instruments,Semiconductors,Information Technology,USA,Low,1930,16.801,18,34000,0.03,0.15
+KLA Corporation,Technology,Semiconductors,USA,Medium,1997,10.48,53,14000,0.01,0.15
+Tencent,Technology,Information Technology,China,High,1998,3.83,46,104787,0.03,0.15
+Workday Inc.,Technology,Software Application,USA,Low,2005,6.21,49,17522,0.03,0.15
+Samsung,Conglomerate,Information Technology,South Korea,Medium,1938,201.0667095,41,8809,0.01,0.14
+Kweichow Moutai,Beverages,Consumer Staples,China,Medium,1999,21.98955412,26,31413,0.03,0.14
+Hermés,Luxury Goods,Consumer Discretionary,France,Low,1837,14.84466556,24,22037,0.01,0.14
+Cadence Design Systems Inc.,Technology,Software Application,USA,Low,1988,3.56,57,9300,0.00,0.14
+Arista Networks Inc.,Technology,Computer Hardware,USA,Medium,2004,4.38,52,2993,0.01,0.14
+TotalEnergies,Oil & Gas,Energy,France,Medium,1924,212.595,16,101279,0.03,0.14
+Inditex,Retail,Consumer Discretionary,Spain,Medium,1985,39.42627151,15,154519,0.03,0.14
+Airbnb,Technology,Software Application,USA,Medium,2008,8.39,78,6132,0.00,0.13
+Prosus,Technology,Information Technology,Netherlands,Medium,2019,2.628,16,22634,0.00,0.13
+West Fraser Timber CO Ltd,Forestry Products,Basic Materials,Canada,Medium,1955,8.8,11,7800,0.02,0.13
+AstraZeneca,Pharmaceuticals,Health Care,UK,Low,1999,47.611,24,89900,0.02,0.13
+Block Inc.,Technology,Software Infrastructure,USA,Low,2009,17.53,47,8521,0.02,0.13
+L'Oreal,Cosmetics,Consumer Staples,France,Low,1909,45.53067993,24,94605,0.02,0.12
+Marvell Technology Inc.,Technology,Semiconductors,USA,Low,1995,5.91,35,6695,0.01,0.12
+GlobalFoundries,Technology,Semiconductors,USA,Low,2009,8.1,38,14600,0.01,0.12
+Fiserv Inc.,Technology,IT Services,USA,Low,1984,17.73,71,44000,0.00,0.12
+Canadian Natural Resources Ltd.,Oil & Gas,Energy,Canada,Medium,1989,39.32,73,10000,0.04,0.12
+Whitecap Resources Inc.,Oil & Gas,Energy,Canada,Medium,2008,3.3,8,300,0.08,0.11
+HDFC Bank,Banking,Financials,India,Medium,1994,20.39194658,17,173222,0.00,0.11
+Caterpillar,Construction & Machinery,Industrials,USA,Medium,1925,66.997,16,109100,0.02,0.11
+Abbott Laboratories,Pharmaceuticals,Health Care,USA,Low,1888,0.705,18,115000,0.02,0.11
+PetroChina,Oil & Gas,Energy,China,Medium,1999,430.6567487,26,398440,0.04,0.11
+Wheaton Precious Metals Corp.,Mining,Basic Materials,Canada,Medium,2004,1.3,23,35,0.01,0.10
+Comcast,Telecommunications,Communication Services,USA,Medium,1963,121.939,15,186000,0.02,0.10
+Novartis,Pharmaceuticals,Health Care,Switzerland,Low,1996,49.924,22,76057,0.04,0.10
+Amgen,Biotechnology,Health Care,USA,Low,1980,29.532,17,25200,0.03,0.10
+Pepsico,Beverages,Consumer Staples,USA,Low,1965,91.875,22,318000,0.03,0.10
+Suncor Energy Inc.,Oil & Gas,Energy,Canada,Medium,1919,38.6,53,16922,0.05,0.10
+Gildan Activewear Inc.,Apparel,Consumer Goods,Canada,Medium,1984,3.2,7,54000,0.02,0.10
+Nestlé,Food & Beverage,Consumer Staples,Switzerland,Low,1867,2.267241862,27,270000,0.03,0.10
+UnitedHealth,Healthcare,Health Care,USA,Low,1977,379.487,45,440000,0.02,0.09
+Thermo Fisher Scientific,Healthcare,Health Care,USA,Low,2006,0.49,20,122000,0.03,0.09
+Reliance Industries,Conglomerate,Energy,India,Medium,1966,108.6262435,25,236334,0.00,0.09
+Goeasy Ltd.,Financial Services,Financials,Canada,Medium,1990,0.85,2,2000,0.03,0.09
+Tata Consultancy Services,Technology,Information Technology,India,Medium,1968,52.43,17,614795,0.02,0.09
+Roche,Pharmaceuticals,Health Care,Switzerland,Low,1896,71.88861493,22,103000,0.04,0.09
+Bank of China,Banking,Financials,China,Medium,1912,85.92531783,18,306182,0.02,0.09
+Teck Resources Ltd. Class B,Mining,Basic Materials,Canada,Medium,1906,12.9,21,10000,0.01,0.08
+Wells Fargo,Financial Services,Financials,USA,Medium,1852,82.73,21,224824,0.03,0.08
+Paramount Resources Ltd.,Oil & Gas,Energy,Canada,Medium,1978,1.4,3,560,0.06,0.08
+China Mobile,Telecommunications,Communication Services,China,Medium,1997,142.3775052,22,450698,0.06,0.08
+Waste Connections Inc.,Waste Management,Industrials,Canada,Low,1997,7.1,32,19000,0.01,0.08
+Philip Morris,Tobacco,Consumer Staples,USA,Medium,1847,35.948,16,79800,0.05,0.08
+BRP Inc.,Manufacturing,Consumer Goods,Canada,Medium,1942,6,6,12500,0.01,0.08
+Spin Master Corp.,Toys,Consumer Goods,Canada,Medium,1994,1.9,4,1800,0.01,0.08
+Parex Resources Inc.,Oil & Gas,Energy,Canada,Medium,2009,1.2,3,300,0.05,0.08
+Headwater Exploration Inc.,Oil & Gas,Energy,Canada,High,2020,0.15,1,40,0.06,0.08
+Merck,Pharmaceuticals,Health Care,USA,Low,1891,61.402,32,70000,0.02,0.08
+American Express,Financial Services,Financials,USA,Low,1850,61.978,17,77300,0.01,0.08
+EQB Inc.,Financial Services,Financials,Canada,Medium,1970,3.05,3,1800,0.02,0.08
+T-Mobile US,Telecommunications,Communication Services,USA,Medium,1994,78.52,21,67000,0.02,0.08
+Sun Life Financial Inc.,Financial Services,Financials,Canada,Low,1865,34.8,37,23500,0.04,0.08
+Applied Materials Inc.,Technology,Semiconductors,USA,Medium,1967,26.25,102,33000,0.01,0.08
+Applied Materials,Semiconductors,Information Technology,USA,Medium,1967,26.501,20,34800,0.01,0.08
+Sprott Inc.,Financial Services,Financials,Canada,Medium,1981,1.3,2,200,0.03,0.08
+Dundee Precious Metals Inc.,Mining,Basic Materials,Canada,Medium,1983,0.6,1,2000,0.02,0.08
+Pan American Silver Corp.,Mining,Basic Materials,Canada,Medium,1994,2.3,6,7500,0.03,0.08
+Alibaba,E-commerce,Consumer Discretionary,China,High,1999,131.2296523,18,204891,0.04,0.07
+Arm Holdings,Semiconductors,Information Technology,UK,Medium,1990,3.233,18,5963,0.00,0.07
+Amazon,Technology,Software Application,USA,Low,1994,513.98,1030,1541000,0.00,0.07
+Amazon,E-commerce,Consumer Discretionary,USA,Low,1994,590.74,206,1525000,0.00,0.07
+Brookfield Asset Management Ltd.,Investment,Financials,Canada,Low,1899,98,70,180000,0.04,0.07
+CCL Industries Inc. Class B NV,Packaging,Industrials,Canada,Low,1951,6.4,14,22200,0.02,0.07
+MTY Food Group Inc.,Restaurants,Consumer Goods,Canada,Medium,1979,0.85,2,10000,0.02,0.07
+ARC Resources Ltd.,Oil & Gas,Energy,Canada,Medium,1996,5.6,11,1200,0.03,0.07
+B2Gold Corp.,Mining,Basic Materials,Canada,Medium,2007,2.3,5,4100,0.05,0.07
+Jamieson Wellness Inc.,Pharmaceuticals,Healthcare,Canada,Medium,1922,0.47,1,1000,0.03,0.07
+Magna International Inc.,Automotive,Consumer Goods,Canada,Medium,1957,39.4,20,169000,0.03,0.07
+Toromont Industries Ltd.,Industrial Equipment,Industrials,Canada,Low,1961,4.1,8,6500,0.02,0.07
+Cargojet Inc.,Transportation,Industrials,Canada,Medium,2005,0.5,2,1200,0.01,0.07
+Definity Financial Corp.,Insurance,Financials,Canada,Medium,2021,2.3,3,1400,0.01,0.07
+McDonald,Restaurants,Consumer Discretionary,USA,Low,1940,25.7649,18,100000,0.03,0.07
+Coca-Cola,Beverages,Consumer Staples,USA,Low,1886,46.074,27,79100,0.03,0.07
+Great-West Lifeco Inc.,Financial Services,Financials,Canada,Low,1891,50.2,30,24000,0.05,0.07
+Franco-Nevada Corp.,Mining,Basic Materials,Canada,Medium,1983,1.4,30,50,0.01,0.07
+TFI International Inc.,Transportation,Industrials,Canada,Medium,1957,6.4,12,17000,0.01,0.07
+Pason Systems Inc.,Oilfield Services,Energy,Canada,Medium,1978,0.3,1,900,0.03,0.07
+FirstService Corp.,Real Estate,Industrials,Canada,Medium,1988,4.1,6,24000,0.01,0.07
+Tourmaline Oil Corp.,Oil & Gas,Energy,Canada,Medium,2008,3.8,10,500,0.02,0.07
+Restaurant Brands International Inc.,Restaurants,Consumer Goods,Canada,Medium,2014,6,29,6000,0.03,0.07
+Premium Brands Holdings Corp.,Food & Beverage,Consumer Goods,Canada,Medium,1917,4.4,4,12500,0.03,0.07
+Stantec Inc.,Engineering,Industrials,Canada,Medium,1954,4,6,25000,0.01,0.07
+BHP Group,Mining,Materials,Australia,Medium,1885,53.817,15,49089,0.05,0.07
+Quebecor Inc Class B SV,Media,Communications,Canada,Medium,1965,4.3,7,10000,0.04,0.07
+Osisko Gold Royalties Ltd.,Mining,Basic Materials,Canada,Medium,2014,0.28,2,50,0.01,0.07
+Danaher,Conglomerate,Health Care,USA,Low,1969,22.519,18,61000,0.00,0.06
+Berkshire Hathaway,Conglomerate,Financials,USA,Low,1839,410.931,88,396500,0.00,0.06
+CNOOC,Oil & Gas,Energy,China,Medium,1982,58.6900423,15,21245,0.05,0.06
+Toronto-Dominion Bank,Banking,Financials,Canada,Low,1855,43.6,100,89000,0.05,0.06
+Metro Inc.,Retail,Consumer Goods,Canada,Low,1947,15.4,12,90000,0.02,0.06
+Saputo Inc.,Food & Beverage,Consumer Goods,Canada,Medium,1954,15.6,13,17800,0.03,0.06
+TMX Group Ltd.,Financial Services,Financials,Canada,Low,2001,1,6,1500,0.03,0.06
+Canadian National Railway Co.,Transportation,Industrials,Canada,Low,1919,15.2,77,25800,0.02,0.06
+Fairfax Financial Holdings Ltd.,Financial Services,Financials,Canada,Medium,1985,23.7,15,15000,0.01,0.06
+Procter & Gamble,Consumer Goods,Consumer Staples,USA,Low,1837,0.49,39,107000,0.02,0.06
+Agricultural Bank of China,Banking,Financials,China,Medium,1951,96.31767813,21,452258,0.00,0.06
+National Bank of Canada,Banking,Financials,Canada,Low,1859,9.1,26,23500,0.04,0.06
+Canadian Tire Corp. Cass A NV,Retail,Consumer Goods,Canada,Medium,1922,17.8,8,58000,0.05,0.06
+Maple Leaf Foods Inc.,Food & Beverage,Consumer Goods,Canada,Medium,1927,4.8,3,13000,0.03,0.06
+Africa Oil Corp.,Oil & Gas,Energy,Canada,High,1983,0.1,1,30,0.03,0.06
+Stella Jones Inc.,Manufacturing,Industrials,Canada,Medium,1992,2.3,3,2000,0.01,0.06
+Freehold Royalties Ltd.,Oil & Gas,Energy,Canada,Medium,1996,0.18,2,30,0.08,0.06
+Johnson & Johnson,Pharmaceuticals,Health Care,USA,Low,1886,89.659,35,131900,0.03,0.06
+Power Corporation of Canada Sv,Financial Services,Financials,Canada,Medium,1925,55.8,21,30000,0.05,0.06
+Exxon Mobil,Oil & Gas,Energy,USA,Medium,1882,331.464,52,62000,0.03,0.06
+Oceanagold Corp.,Mining,Basic Materials,Australia,Medium,1989,0.78,2,2300,0.01,0.06
+Canadian Pacific Kansas City Ltd.,Transportation,Industrials,Canada,Low,1881,9.8,73,13000,0.01,0.06
+Cogeco Communications Inc.,Telecommunications,Communications,Canada,Medium,1957,2.5,3,4200,0.07,0.06
+Badger Infrastructure Solutions Ltd.,Construction,Industrials,Canada,Medium,1992,0.6,1,1600,0.02,0.06
+Vermilion Energy Inc.,Oil & Gas,Energy,Canada,Medium,1994,1.8,3,1000,0.02,0.06
+Peyto Exploration & Development Corp.,Oil & Gas,Energy,Canada,High,1998,1.3,2,200,0.10,0.06
+Centerra Gold Inc.,Mining,Basic Materials,Canada,Medium,2004,1,2,2000,0.03,0.06
+InterRent Real Estate Investment Trust,Real Estate,Financials,Canada,Medium,2006,0.16,2,250,0.03,0.06
+Lundin Gold Inc.,Mining,Basic Materials,Canada,Medium,2007,1.3,2,1000,0.02,0.06
+Thomson Reuters Corp.,Media,Communications,Canada,Low,2008,6.3,51,25800,0.01,0.06
+Winpak Ltd.,Packaging,Industrials,Canada,Medium,1977,1.2,3,2300,0.00,0.06
+China Construction Bank,Banking,Financials,China,Medium,1954,106.2805162,19,376682,0.05,0.06
+Alimentation Couche-Tard Inc.,Retail,Consumer Goods,Canada,Medium,1980,64.2,54,135000,0.01,0.06
+Capital Power Corp.,Utilities,Utilities,Canada,Medium,2009,2.4,5,3000,0.06,0.06
+Pembina Pipeline Corp.,Oil & Gas,Energy,Canada,Medium,1954,7.1,24,2800,0.06,0.06
+ICBC,Banking,Financials,China,Medium,1984,115.6715832,28,427587,0.00,0.06
+Finning International Inc.,Industrial Equipment,Industrials,Canada,Medium,1933,6.3,4,13000,0.03,0.06
+Baytex Energy Corp.,Oil & Gas,Energy,Canada,Medium,1993,1,2,230,0.00,0.06
+Sleep Country Canada Holdings Inc.,Retail,Consumer Goods,Canada,Medium,1994,0.65,1,1600,0.04,0.06
+Royal Bank Of Canada,Banking,Financials,Canada,Low,1864,40.7530923,15,91398,0.03,0.05
+North West Company Inc.,Retail,Consumer Goods,Canada,Medium,1668,2.3,2,7500,0.04,0.05
+Loblaw Companies Ltd.,Retail,Consumer Staples,Canada,Medium,1919,59.53,35,220000,0.01,0.05
+SmartCentres Real Estate Investment Trust,Real Estate,Financials,Canada,Medium,1989,0.7,5,300,0.08,0.05
+Nutrien Ltd.,Chemicals,Basic Materials,Canada,Medium,2018,29.1,46,23100,0.04,0.05
+Intact Financial Corp.,Insurance,Financials,Canada,Low,1809,14.3,22,16000,0.02,0.05
+Empire Company Ltd.,Retail,Consumer Goods,Canada,Low,1963,29.2,9,127000,0.02,0.05
+Onex Corp.,Investment,Financials,Canada,Medium,1984,34.8,7,750,0.00,0.05
+Killam Apartment REIT,Real Estate,Financials,Canada,Medium,2002,0.25,2,700,0.04,0.05
+Morgan Stanley,Financial Services,Financials,USA,Medium,1935,51.246,16,81,0.03,0.05
+Russel Metals Inc.,Metal Distribution,Industrials,Canada,Medium,1929,4.7,3,3500,0.04,0.05
+CT Real Estate Investment Trust,Real Estate,Financials,Canada,Low,2013,0.6,2,50,0.07,0.05
+Shell,Oil & Gas,Energy,Netherlands,Medium,1907,302.138,23,103000,0.04,0.05
+Algoma Steel Group Inc.,Steel Manufacturing,Basic Materials,Canada,Medium,1902,2.5,2,2600,0.02,0.05
+Primaris REIT,Real Estate,Financials,Canada,Medium,2013,0.4,2,150,0.06,0.05
+Stelco Holdings Inc.,Manufacturing,Basic Materials,Canada,Medium,1910,2.3,3,2200,0.04,0.05
+Westshore Terminals Investment Corp.,Marine Transport,Industrials,Canada,Medium,1970,0.2,2,300,0.04,0.05
+Transcontinental Inc Cl A Sv,Printing,Industrials,Canada,Medium,1976,2,2,7300,0.08,0.04
+Goldman Sachs,Financial Services,Financials,USA,Medium,1869,48.243,15,45900,0.02,0.04
+HSBC,Banking,Financials,UK,Medium,1865,66.743,16,219199,0.09,0.04
+Enerplus Corp.,Oil & Gas,Energy,Canada,Medium,1986,1.05,4,400,0.02,0.04
+Analog Devices Inc.,Technology,Semiconductors,USA,Low,1965,12.57,95,24450,0.03,0.03
+Home Depot,Retail,Consumer Discretionary,USA,Low,1978,151.83,33,465000,0.03,0.03
+JPMorgan Chase,Financial Services,Financials,USA,Medium,1799,158.851,60,311921,0.02,0.03
+Verizon,Telecommunications,Communication Services,USA,Low,1983,134.043,17,110500,0.05,0.03
+Chevron,Oil & Gas,Energy,USA,Medium,1879,194.651,29,45600,0.04,0.03
+Mullen Group Ltd.,Transportation,Industrials,Canada,Medium,1949,1.6,1,5800,0.02,0.03
+AbbVie,Pharmaceuticals,Health Care,USA,Medium,2013,54.403,29,50000,0.04,0.02
+Linamar Corp.,Manufacturing,Industrials,Canada,Medium,1966,7.93,5,25700,0.02,0.02
+Bank of America,Banking,Financials,USA,Medium,1904,98.141,32,212000,0.02,0.02
+IBM,Technology,Information Technology,USA,Medium,1911,62.068,16,288300,0.04,0.02
+Intel Corporation,Technology,Semiconductors,USA,Medium,1968,63.05,118,131900,0.04,0.02
+Activision Blizzard,Technology,Software Application,USA,Medium,2008,7.52,63,13000,0.03,0.02
+Barrick Gold Corp.,Mining,Basic Materials,Canada,Medium,1983,11.7,36,18000,0.02,0.01
+Microchip Technology Inc.,Technology,Semiconductors,USA,Low,1989,8.05,45,21000,0.00,0.00
+Pinduoduo,E-commerce,Consumer Discretionary,China,High,2015,41.41648931,19,17403,0.00,-0.01
+Walt Disney,Entertainment,Communication Services,USA,Low,1923,89.2,18,173250,0.00,-0.03
+Saudi Aramco,Oil & Gas,Energy,Saudi Arabia,Medium,1933,489.4388547,182,73000,0.07,-0.03
+IA Financial Corporation Inc.,Financial Services,Financials,Canada,Low,1892,11.1,7,7800,0.03,-0.04
+Accenture,Consulting,Information Technology,Ireland,Low,1989,64.475845,19,742000,0.02,-0.06
+Labrador Iron Ore Royalty Corp.,Mining,Basic Materials,Canada,Medium,2010,2.83,2,10,0.09,-0.06
+Nextera Energy,Utilities,Utilities,USA,Low,1925,27.13,15,15300,0.03,-0.09
+Enghouse Systems Ltd.,Software,Technology,Canada,Medium,1984,0.454,2,1882,0.03,-0.10
+Pfizer,Pharmaceuticals,Health Care,USA,Low,1849,55.093,16,83000,0.06,-0.16
+Richelieu Hardware Ltd.,Manufacturing,Industrials,Canada,Medium,1968,1.1,3,2200,0.01,-0.19
