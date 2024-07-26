@@ -14,7 +14,6 @@ Oracle,Technology,Information Technology,USA,Low,1977,52.961,40,164000,0.01,0.55
 First Quantum Minerals Ltd.,Mining,Basic Materials,Canada,High,1983,6.4,16,20600,0.02,0.51
 Lam Research Corporation,Technology,Semiconductors,USA,Medium,1980,19.04,69,18700,0.01,0.50
 Advanced Micro Devices (AMD) Inc.,Technology,Semiconductors,USA,Medium,1969,23.6,155,25000,0.00,0.49
-AMD,Semiconductors,Information Technology,USA,Medium,1969,22.8,27,26000,0.00,0.49
 Lundin Mining Corp.,Mining,Basic Materials,Canada,Medium,1994,2.77,7,9200,0.04,0.48
 Novo Nordisk,Pharmaceuticals,Health Care,Denmark,Low,1923,35.45750253,62,66015,0.01,0.44
 Microsoft,Technology,Information Technology,USA,Low,1975,236.584,342,221000,0.01,0.41
@@ -22,13 +21,10 @@ Snowflake Inc.,Technology,Software Application,USA,Low,2012,2.06,46,4991,0.01,0.
 Agnico Eagle Mines Ltd.,Mining,Basic Materials,Canada,Medium,1957,6.6,29,11200,0.03,0.38
 Eli Lilly,Pharmaceuticals,Health Care,USA,Low,1876,35.9321,81,43000,0.01,0.36
 Alphabet (Google),Technology,Software Infrastructure,USA,Low,1998,282.83,1350,190234,0.00,0.34
-Alphabet (Google),Technology,Information Technology,USA,Low,2015,318.146,231,180895,0.00,0.34
 Salesforce Inc.,Technology,Software Application,USA,Low,1999,31.35,189,73541,0.00,0.34
-Salesforce,Software,Information Technology,USA,Low,1999,35.743,25,72682,0.00,0.34
 Alamos Gold Inc. Class A,Mining,Basic Materials,Canada,Medium,2003,0.82,4,1700,0.01,0.33
 General Electric,Conglomerate,Industrials,USA,Medium,1892,69.52,18,125000,0.00,0.29
 Apple Inc.,Technology,Consumer Electronics,USA,Low,1976,387.53,2520,164000,0.00,0.29
-Apple,Technology,Information Technology,USA,Low,1976,381.623,340,150000,0.00,0.29
 Manulife Financial Corp.,Financial Services,Financials,Canada,Low,1887,48.8,37,37000,0.05,0.27
 TSMC (Taiwan Semiconductor Manufacturing Company),Semiconductors,Information Technology,Taiwan,Low,1987,73.86798726,95,76478,0.01,0.24
 Intuitive Surgical,Medical Devices,Health Care,USA,Low,1995,7.3185,15,12120,0.00,0.24
@@ -47,13 +43,11 @@ ASML,Semiconductors,Information Technology,Netherlands,Low,1984,28.26208239,42,4
 Imperial Oil Ltd.,Oil & Gas,Energy,Canada,Medium,1880,41.2,32,5700,0.03,0.21
 Cenovus Energy Inc.,Oil & Gas,Energy,Canada,Medium,2009,42.35,28,6000,0.02,0.21
 Qualcomm Inc.,Technology,Semiconductors,USA,Medium,1985,42.95,138,51000,0.02,0.20
-QUALCOMM,Semiconductors,Information Technology,USA,Medium,1985,36.406,23,50000,0.02,0.20
 Equinix,Technology,IT Services,USA,Low,1998,7.26,64,11451,0.02,0.19
 Automatic Data Processing,Technology,Software Application,USA,Low,1949,16.67,90,60000,0.02,0.19
 LVMH,Luxury Goods,Consumer Discretionary,France,Low,1987,95.24930901,39,192287,0.02,0.19
 Uber Technologies Inc.,Technology,Software Application,USA,Medium,2009,31.87,66,32500,0.00,0.19
 Broadcom Inc.,Technology,Semiconductors,USA,Medium,1961,34.41,266,20000,0.01,0.18
-Broadcom,Semiconductors,Information Technology,USA,Medium,1961,42.619,81,20000,0.01,0.18
 Intuit Inc.,Technology,Software Application,USA,Low,1983,13.68,118,17300,0.00,0.18
 Intuit,Software,Information Technology,USA,Low,1983,15.813,19,18200,0.00,0.18
 Synopsys Inc.,Technology,Software Infrastructure,USA,Low,1986,5.17,57,19000,0.00,0.18
@@ -121,14 +115,12 @@ EQB Inc.,Financial Services,Financials,Canada,Medium,1970,3.05,3,1800,0.02,0.08
 T-Mobile US,Telecommunications,Communication Services,USA,Medium,1994,78.52,21,67000,0.02,0.08
 Sun Life Financial Inc.,Financial Services,Financials,Canada,Low,1865,34.8,37,23500,0.04,0.08
 Applied Materials Inc.,Technology,Semiconductors,USA,Medium,1967,26.25,102,33000,0.01,0.08
-Applied Materials,Semiconductors,Information Technology,USA,Medium,1967,26.501,20,34800,0.01,0.08
 Sprott Inc.,Financial Services,Financials,Canada,Medium,1981,1.3,2,200,0.03,0.08
 Dundee Precious Metals Inc.,Mining,Basic Materials,Canada,Medium,1983,0.6,1,2000,0.02,0.08
 Pan American Silver Corp.,Mining,Basic Materials,Canada,Medium,1994,2.3,6,7500,0.03,0.08
 Alibaba,E-commerce,Consumer Discretionary,China,High,1999,131.2296523,18,204891,0.04,0.07
 Arm Holdings,Semiconductors,Information Technology,UK,Medium,1990,3.233,18,5963,0.00,0.07
 Amazon,Technology,Software Application,USA,Low,1994,513.98,1030,1541000,0.00,0.07
-Amazon,E-commerce,Consumer Discretionary,USA,Low,1994,590.74,206,1525000,0.00,0.07
 Brookfield Asset Management Ltd.,Investment,Financials,Canada,Low,1899,98,70,180000,0.04,0.07
 CCL Industries Inc. Class B NV,Packaging,Industrials,Canada,Low,1951,6.4,14,22200,0.02,0.07
 MTY Food Group Inc.,Restaurants,Consumer Goods,Canada,Medium,1979,0.85,2,10000,0.02,0.07
