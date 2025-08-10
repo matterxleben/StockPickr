@@ -1,10 +1,16 @@
-# StockPickr
-## MSCI 436 - Decision Support Systems: Term Project
-Stock Recommendation using K Nearest Neighbours
+## StockPickr
+Stock Pickr is a stock recommendation program that uses K Nearest Neighbours to recommend the top 5 stocks based on the user's preferences. This program was built during the course "MSCI 436: Decision Support Systems" for our term-long project
 
-## Model
-We used K Nearest Neighbours to classify the top 5 stocks closest to the user's preferences.
+### Technologies & Model Selection:
+- Python
+- Pandas
+- Scikit-Learn: K Nearest Neighbours
+- Streamlit
 
-## Demo Video
-Please watch the demo of the project at this link:
+### Report:
+The full report and results of this project can be seen at:
+https://docs.google.com/presentation/d/1Zo5HlvaQpLkRQ4fk0uWDzEGkV0dwfBYN7eFdKEl3Ngw/edit?usp=sharing
+
+### Demo Video
+Please review the demo of the project at:
 https://www.youtube.com/watch?v=6VRBM9MqKoo&feature=youtu.be
