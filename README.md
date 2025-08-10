@@ -1,5 +1,5 @@
 ## StockPickr
-Stock Pickr is a stock recommendation program that uses K Nearest Neighbours to recommend the top 5 stocks based on the user's preferences. This program was built during the course "MSCI 436: Decision Support Systems" for our term-long project
+Stock Pickr is a stock recommendation program that uses K Nearest Neighbours to recommend the top 5 stocks to a user based on their preferences. This program was built during the course "MSCI 436: Decision Support Systems" for our term-long project
 
 ### Technologies & Model Selection:
 - Python
