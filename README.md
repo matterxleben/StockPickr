@@ -1,6 +1,6 @@
 # StockPickr
 ## MSCI 436 - Decision Support Systems: Term Project
-Stock Recommendation using Machine Learning
+Stock Recommendation using K Nearest Neighbours
 
 ## Model
 We used K Nearest Neighbours to classify the top 5 stocks closest to the user's preferences.
